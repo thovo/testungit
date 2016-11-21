@@ -1,0 +1,26 @@
+{
+  "name": "testungit",
+  "version": "0.0.1",
+  "description": "Test Ungit functions",
+  "main": "script.js",
+  "dependencies": {
+    "ungit": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thovo/testungit.git"
+  },
+  "keywords": [
+    "ungit"
+  ],
+  "author": "Tho Vo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thovo/testungit/issues"
+  },
+  "homepage": "https://github.com/thovo/testungit#readme"
+}
