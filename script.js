@@ -1,5 +1,5 @@
-var git         = require 'ungit/source/git';
-var gitParser   = require 'ungit/source/git-parser';
+var git         = require('ungit');
+var gitParser   = require('ungit/source/git-parser');
 
 var task_git_show_conflict_list;
 var repository_path = 'https://github.com/thovo/testungit';
